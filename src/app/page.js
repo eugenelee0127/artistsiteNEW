@@ -2,7 +2,7 @@ import React from 'react';
 import { FaInstagram, FaYoutube, FaSpotify, FaApple } from 'react-icons/fa';
 import { SiYoutubemusic } from 'react-icons/si';
 
-const BusinessCard = () => {
+export default function Home() {
   return (
     <div style={styles.pageContainer}>
       <div style={styles.cardContainer}>
@@ -90,5 +90,3 @@ const styles = {
     transition: 'transform 0.2s, color 0.3s',
   },
 };
-
-export default BusinessCard;
