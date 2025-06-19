@@ -35,6 +35,9 @@ export default function Home() {
           <a href="https://music.apple.com/artist/eugene-lee/1773815454" target="_blank" rel="noopener noreferrer">
             <FaApple style={styles.icon} />
           </a>
+          <a href="https://www.linkedin.com/in/eugene-lee-0965952b5/" target="_blank" rel="noopener noreferrer">
+            <FaLinkedin style={styles.icon} />
+          </a>
         </div>
       </div>
     </div>
