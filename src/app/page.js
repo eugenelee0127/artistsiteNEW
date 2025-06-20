@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaInstagram, FaYoutube, FaSpotify, FaApple } from 'react-icons/fa';
+import { FaInstagram, FaYoutube, FaSpotify, FaApple, FaLinkedin } from 'react-icons/fa';
 import { SiYoutubemusic } from 'react-icons/si';
 
 export default function Home() {
