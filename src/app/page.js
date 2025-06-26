@@ -12,7 +12,7 @@ export default function Home() {
         {/* Flute Image as a Separator */}
         <div style={styles.fluteContainer}>
           <img 
-            src="/fluteimage2.png" 
+            src="/FluteClearImageArtistWebsite.PNG" 
             alt="Flute Separator" 
             style={styles.fluteImage} 
           />
