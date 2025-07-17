@@ -39,6 +39,18 @@ export default function Home() {
             <FaLinkedin style={styles.icon} />
           </a>
         </div>
+        {/* Add featured line below social icons */}
+        <div style={{ marginTop: '18px', color: '#fff', fontSize: '0.58rem' }}>
+          Featured by the National Public Radio&nbsp;
+          <a
+            href="https://www.daily-joy.org/video/wartime-flute/"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: '#ffffff', textDecoration: 'underline' }}
+          >
+            [Click to listen]
+          </a>
+        </div>
       </div>
     </div>
   );
